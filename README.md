@@ -26,30 +26,30 @@ I am also interested in writing blogs you can check out on <a target="blank" hre
 
 ## 🔧 Languages & Frameworks
 <p align='left'>
-  <img src="https://github.com/kanhaiyatyagi63/kanhaiyatyagi/blob/master/Images/Icons/htmlsvg.png" alt="html" width="40" height="40">
-  <img src='https://github.com/kanhaiyatyagi63/kanhaiyatyagi/blob/master/Images/Icons/css.png' alt="css" width="40" height="40">
-  <img src='https://github.com/kanhaiyatyagi63/kanhaiyatyagi/blob/master/Images/Icons/Js.png' height='30' width='auto' alt="js">
-   <img src="https://github.com/kanhaiyatyagi63/kanhaiyatyagi/blob/master/Images/Icons/efcore.png" alt="ef core" width="auto" height="40"/>
-   <img src="https://github.com/kanhaiyatyagi63/kanhaiyatyagi/blob/master/Images/Icons/angular.svg" alt="angular" width="40" height="40"/>
-   <img src="https://github.com/kanhaiyatyagi63/kanhaiyatyagi/blob/master/Images/Icons/sql.png" alt="Sql" width="40" height="40"/>
-   <img src="https://github.com/kanhaiyatyagi63/kanhaiyatyagi/blob/master/Images/Icons/core2.png" alt=".Net Core" width="50" height="40"/>
-   <img src="https://github.com/kanhaiyatyagi63/kanhaiyatyagi/blob/master/Images/Icons/csharp.png" width="40" height="40"/>
+  <img src="https://github.com/kanhaiyatyagi63/kanhaiyatyagi63/blob/master/Images/Icons/htmlsvg.png" alt="html" width="40" height="40">
+  <img src='https://github.com/kanhaiyatyagi63/kanhaiyatyagi63/blob/master/Images/Icons/css.png' alt="css" width="40" height="40">
+  <img src='https://github.com/kanhaiyatyagi63/kanhaiyatyagi63/blob/master/Images/Icons/Js.png' height='30' width='auto' alt="js">
+   <img src="https://github.com/kanhaiyatyagi63/kanhaiyatyagi63/blob/master/Images/Icons/efcore.png" alt="ef core" width="auto" height="40"/>
+   <img src="https://github.com/kanhaiyatyagi63/kanhaiyatyagi63/blob/master/Images/Icons/angular.svg" alt="angular" width="40" height="40"/>
+   <img src="https://github.com/kanhaiyatyagi63/kanhaiyatyagi63/blob/master/Images/Icons/sql.png" alt="Sql" width="40" height="40"/>
+   <img src="https://github.com/kanhaiyatyagi63/kanhaiyatyagi63/blob/master/Images/Icons/core2.png" alt=".Net Core" width="50" height="40"/>
+   <img src="https://github.com/kanhaiyatyagi63/kanhaiyatyagi63/blob/master/Images/Icons/csharp.png" width="40" height="40"/>
   
 </p>
 
 
 ## &#x1f4c8; GitHub Stats
-<a href="https://github.com/kanhaiyatyagi63/kanhaiyatyagi">
+<a href="https://github.com/kanhaiyatyagi63/kanhaiyatyagi63">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanhaiyatyagi63&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
-<a href="https://github.com/kanhaiyatyagi63/kanhaiyatyagi">
+<a href="https://github.com/kanhaiyatyagi63/kanhaiyatyagi63">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kanhaiyatyagi63&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Kanhaiya's GitHub Stats" />
 </a>
 
 
 ## 🔗 &nbsp;**Connect with me**
 <p align="left">
-<a href="https://twitter.com/kanhaiyatyagi63" target="blank"><img align="center" src="https://github.com/kanhaiyatyagi63/kanhaiyatyagi/blob/master/Images/Icons/twitter.svg" alt="kanhaiya tyagi" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/kanhaya-tyagi-510b55141/" target="blank"><img align="center" src="https://github.com/kanhaiyatyagi63/kanhaiyatyagi/blob/master/Images/Icons/linkedIn.svg" alt="kanhaiya tyagi" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/14945515" target="blank"><img align="center" src="https://github.com/kanhaiyatyagi63/kanhaiyatyagi/blob/master/Images/Icons/stack-overflow.svg" alt="kanhaiya tyagi" height="30" width="40" /></a>
-<a href="https://www.instagram.com/_ur_kanha/" target="blank"><img align="center" src="https://github.com/kanhaiyatyagi63/kanhaiyatyagi/blob/master/Images/Icons/instagram.svg" alt="kanhaiya tyagi" height="30" width="40" /></a>
+<a href="https://twitter.com/kanhaiyatyagi63" target="blank"><img align="center" src="https://github.com/kanhaiyatyagi63/kanhaiyatyagi63/blob/master/Images/Icons/twitter.svg" alt="kanhaiya tyagi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kanhaya-tyagi-510b55141/" target="blank"><img align="center" src="https://github.com/kanhaiyatyagi63/kanhaiyatyagi63/blob/master/Images/Icons/linkedIn.svg" alt="kanhaiya tyagi" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14945515" target="blank"><img align="center" src="https://github.com/kanhaiyatyagi63/kanhaiyatyagi63/blob/master/Images/Icons/stack-overflow.svg" alt="kanhaiya tyagi" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_ur_kanha/" target="blank"><img align="center" src="https://github.com/kanhaiyatyagi63/kanhaiyatyagi63/blob/master/Images/Icons/instagram.svg" alt="kanhaiya tyagi" height="30" width="40" /></a>
